@@ -10,7 +10,7 @@ def login(user, password):
 def calcular(dato):
 
     resultado = eval(dato) / 0
-    resultado =resultado +2
+    resultado =resultado +10
     return resultado
 
 print("Login success")
