@@ -13,4 +13,9 @@ def calcular(dato):
     resultado =resultado +30
     return resultado
 
+def dividir(dato):
+
+    resultado = dato / 12
+    resultado =resultado +30
+    return resultado
 print("Login success")
